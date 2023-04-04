@@ -1,0 +1,10 @@
+[submodule "catkin_ws/src/VINS-Fusion"]
+	path = catkin_ws/src/VINS-Fusion
+	url = https://github.com/dasc-lab/Vins-Fusion
+
+[submodule "catkin_ws/src/vicon-bridge"]
+	path = catkin_ws/src/vicon-bridge
+	url = https://github.com/ethz-asl/vicon_bridge
+[submodule "catkin_ws/src/vicon_bridge"]
+	path = catkin_ws/src/vicon_bridge
+	url = https://github.com/ethz-asl/vicon_bridge
