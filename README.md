@@ -40,5 +40,9 @@ If you want to align the vins world with the vicon world, before starting the vi
 ```
 rosrun vins align.py
 ```
-
+Launch octomap (optional):
+In another terminal 
+```
+roslaunch vins octomap_mapping.launch 
+```
 
